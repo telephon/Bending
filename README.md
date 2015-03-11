@@ -1,6 +1,6 @@
 # A Code Bending Library
 (SuperCollider Quark)
 
-Code bending is, analogous to circuit bending, a way to reuse the internal wiring of a signal flow. This class opens up enclosed UGen inputs for such external modification and allows for interaction with them without explicit change in the code. Different class methods are provided for different ways to do this.
+Code bending is, analogous to circuit bending, a way to reuse the internal wiring of a signal flow. This library  allows for interaction with signal graphs directly, without inserting explicit parameters or GUI elements in the code. Any number and any output of a ugen can be bent.
 
 ![ScreenShot](bending.png)
